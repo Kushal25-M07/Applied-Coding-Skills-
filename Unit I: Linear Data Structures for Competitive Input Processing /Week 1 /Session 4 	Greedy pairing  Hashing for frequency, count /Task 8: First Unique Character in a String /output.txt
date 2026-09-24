@@ -1,0 +1,7 @@
+Input
+s =
+"leetcode"
+Output
+0
+Expected
+0
