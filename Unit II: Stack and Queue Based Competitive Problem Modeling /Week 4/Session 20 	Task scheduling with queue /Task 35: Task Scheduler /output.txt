@@ -1,0 +1,9 @@
+Input
+tasks =
+["A","A","A","B","B","B"]
+n =
+2
+Output
+8
+Expected
+8
