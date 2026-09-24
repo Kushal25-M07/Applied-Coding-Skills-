@@ -1,0 +1,9 @@
+Input
+head =
+[3,2,0,-4]
+pos =
+1
+Output
+tail connects to node index 1
+Expected
+tail connects to node index 1
