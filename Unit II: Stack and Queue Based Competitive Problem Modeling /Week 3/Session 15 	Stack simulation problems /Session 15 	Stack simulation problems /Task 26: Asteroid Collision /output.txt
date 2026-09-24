@@ -1,0 +1,7 @@
+Input
+asteroids =
+[5,10,-5]
+Output
+[5,10]
+Expected
+[5,10]
