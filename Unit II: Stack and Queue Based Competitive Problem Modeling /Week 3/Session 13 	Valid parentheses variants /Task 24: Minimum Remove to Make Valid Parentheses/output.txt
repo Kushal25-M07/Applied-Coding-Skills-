@@ -1,0 +1,7 @@
+nput
+s =
+"lee(t(c)o)de)"
+Output
+"lee(t(c)o)de"
+Expected
+"lee(t(c)o)de"
